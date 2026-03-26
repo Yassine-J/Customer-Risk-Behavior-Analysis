@@ -78,18 +78,21 @@ Les principales visualisations incluent :
 ---
 
 ## 📂 Structure du projet
+
+```text
+.
 ├── data/
 │   └── Bank Customer Churn Prediction.csv
 ├── images/
-│   └── churn_global.png
-│   └── churn_par_activite.png
-│   └── churn_par_pays.png
-│   └── churn_par_produits.png
+│   ├── churn_global.png
+│   ├── churn_par_activite.png
+│   ├── churn_par_pays.png
+│   ├── churn_par_produits.png
 │   └── dashboard_pbi_churn.png
 ├── bank_churn_cleaned.csv
 ├── CRB.py
 └── README.md
-
+```
 ---
 
 ## 🚀 Perspectives d’amélioration
